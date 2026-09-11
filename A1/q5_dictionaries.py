@@ -1,7 +1,7 @@
 my_dict = {
-    "name": "Maitreya",
-    "roll_no": "1024170404",
-    "branch": "compsci",
+    "name": "Divyansh",
+    "roll_no": "1024170267",
+    "branch": "compscience",
     "age": 19,
     "city": "gurgaon"
 }
@@ -34,7 +34,7 @@ else:
     print("vi. Key 'email' does not exist, using fallback message: Email not available.")
 
 friend_dict = {
-    "name": "Arjun",
+    "name": "Arayana",
     "roll_no": "1024170499",
     "branch": "mechanical",
     "age": 20,
