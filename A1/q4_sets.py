@@ -1,4 +1,4 @@
-roll_no = "1024170404"
+roll_no = "1024170267"
 digits = [int(d) for d in roll_no][:8]
 
 A = {d * 7 for d in digits}
