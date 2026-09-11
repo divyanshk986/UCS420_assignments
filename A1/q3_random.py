@@ -1,7 +1,7 @@
 import random
 from collections import Counter
 
-roll_no = 1024170404
+roll_no = 1024170267
 random.seed(roll_no)
 
 nums = [random.randint(100, 900) for _ in range(100)]
